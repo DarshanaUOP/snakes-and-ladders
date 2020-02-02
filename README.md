@@ -2,7 +2,7 @@
 java based 2D game
 
 
-The game *(Snakes and Ladders)[https://github.com/DarshanaUOP/snakes-and-ladders/blob/master/out/artifacts/paintHelp_jar/paintHelp.jar]* was developed by using java.
+The game *[Snakes and Ladders](https://github.com/DarshanaUOP/snakes-and-ladders/blob/master/out/artifacts/paintHelp_jar/paintHelp.jar)* was developed by using java.
 It can play upto 5 players 
 
 The figure 1 bellow shows home page of the game.<br/>
