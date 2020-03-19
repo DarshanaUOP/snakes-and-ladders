@@ -14,3 +14,5 @@ Red colored lines considerd as snakes and black colored lines are considering la
 
 <img src="src/example/snl_ui.JPG" height = 200 ><br/>
 Figure 2 : UI of the game <br/>
+
+*Note* : _Some functions should have to update._
